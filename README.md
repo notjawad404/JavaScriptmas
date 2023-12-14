@@ -8,3 +8,6 @@
 
 #Day 3: Divide Candy
 <img src="./Output Screenshots/divide candy.png" alt="Divide candy Screenshot">
+
+#Day 4: Get Random Joke
+<img src="./Output Screenshots/RandomJoke.png" alt="Get Random Joke Screenshot">
