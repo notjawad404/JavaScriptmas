@@ -14,3 +14,9 @@
 
 #Day 5: Card Flip
 <img src="./Output Screenshots/CardFlip.png" alt="Card Flip Screenshot">
+
+#Day 6: Secret Santa
+<img src="./Output Screenshots/secretSanta.png" alt="Secret Santa Screenshot">
+
+#Day 7: WishList
+<img src="./Output Screenshots/wishlist.png" alt="Wishlist Screenshot">
