@@ -20,3 +20,6 @@
 
 #Day 7: WishList
 <img src="./Output Screenshots/wishlist.png" alt="Wishlist Screenshot">
+
+#Day 8: Animated Progress bar
+<img src="./Output Screenshots/progressbar.png" alt="Animated Progressbar Screenshot">
